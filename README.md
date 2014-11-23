@@ -11,5 +11,4 @@ Covered areas:
  * Theoretical Philosophy of Science
  * Philosophy of Biology
 
-Most of the content are protected by copyright. The purpose of this list is limited to the public reuse of publications' metadata. The list is published under Creative Commons - Attribution 4.0 International - CC BY 4.0. 
-License available at:https://creativecommons.org/licenses/by/4.0/
+Most of the content are protected by copyright. The purpose of this list is limited to the public reuse of publications' metadata. The list is published under Creative Commons 0 1.0 Universal. The license can be found at: http://creativecommons.org/publicdomain/zero/1.0/
