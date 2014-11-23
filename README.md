@@ -1,3 +1,12 @@
 Philosophical Supplies
 ==============
-This is a list of academic resources in Metaphysics and general Philosophy of Science. Most of the content are protected by copyright. If there is something appealing to your work please contact me by mail, request the paper you need, and I will send you a copy. 
+This is a list of academic publications in several areas of Philosophy. Most of the content are protected by copyright.
+
+Covered areas:
+ * Contemporary Metaphysics
+ * Ancient Metaphysics
+ * Artificial intelligence
+ * Computational Ontology
+ * Philosophy of Technology
+ * Theoretical Philosophy of Science
+ * Philosophy of Biology
